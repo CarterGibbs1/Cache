@@ -6,7 +6,7 @@ $ javac Test.java
 
 To run the program through the command line, run:
 
-  For a one level Cache:
+For a one level Cache:
     $ java Test 1 <cache size> <input textfile name>
-  For a two level Cache:
+For a two level Cache:
     $ java Test 2 <1st-level cache size> <2nd-level cache size> <input textfile name>
